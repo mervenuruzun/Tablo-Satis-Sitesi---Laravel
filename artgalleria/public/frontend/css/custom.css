@@ -1,0 +1,129 @@
+.gorsel{
+    width: 120px;
+    height: 120px;
+}
+.h4kat, .table{
+    text-align: center;
+}
+
+*{
+    font-family: "Rockwell Nova";
+}
+
+.checkout-form label{
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.checkout-form input{
+    font-size: 14px;
+    padding: 5px;
+    font-weight: 400;
+}
+
+.x{
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.form-select{
+    display: block;
+    width: 100%;
+    padding: .375rem 2.25rem .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-position: right .75rem center;
+    background-size: 16px 12px;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    text-align: center;
+}
+
+.py-font{
+    font-family: "Rockwell Nova";
+    color: #3C2317;
+}
+.py-bg{
+    background-color: #F0EBCE;
+    background-size: cover;
+}
+.bg{
+    background-color: #54B435;
+    height: 25px;
+    text-align: center;
+}
+.bq{
+    background-color: #F90716;
+    height: 25px;
+    text-align: center;
+}
+.fiyat{
+    color: #4E6C50;
+}
+.boyut{
+    color: #4E6C50;
+    margin-left: 8%;
+    max-width: 30%;
+}
+
+.urunler{
+    text-align: center;
+    color: #AA8B56;
+}
+.gorsel-boyut{
+    max-height: 150px;
+}
+
+.linka{
+    color: #3C2317;
+    text-decoration: none;
+}
+.linka:hover{
+    color: #3C2317;
+}
+
+.isim{
+    color: #4E6C50;
+    text-align: center;
+}
+
+.aa{
+    text-align: center;
+}
+
+.b{
+    margin-left: 65%;
+}
+
+.c{
+    margin-left: 75%;
+}
+
+.d{
+    padding-top: 3%;
+    margin-left: 30px;
+    color: #999999;
+}
+
+.f{
+   margin-left: 2%;
+}
+
+.g{
+    padding-top: 6%;
+}
+.h{
+    padding-top: 6%;
+}
+
+.z{
+   padding-left: 60%;
+}
+
